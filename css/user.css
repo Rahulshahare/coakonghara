@@ -73,6 +73,7 @@ body { padding-top: 51px; }
 .contact_us {
     box-shadow: 1px 1px 2px #0003;
     padding: 20px;
+    background: #fff;
 }
 
 .footer {
@@ -88,4 +89,10 @@ body { padding-top: 51px; }
 }
 .border_right_white{
     border-right: 1px solid #ffffff47;
+}
+.border-top_white{
+    border-top: 1px solid #ffffff47;
+}
+.footer_down{
+    color: #ffffff73;
 }

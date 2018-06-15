@@ -124,7 +124,7 @@
     </div>
     </div>
 
-    <div class="container-fluid nextStep stats">
+    <div class="container-fluid nextStep ">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <span class="text-center">
@@ -218,7 +218,7 @@
 
     </section>
 
-    <section class="pplSay">
+    <section class="pplSay stats">
         <div class="container">
             <div class="row">
                     <div class="col-md-6 contact_us">
@@ -279,6 +279,16 @@
             </div>
         </div>
 
+    </section>
+
+    <section class="footer border-top_white">
+        <div class="container"> 
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center footer_down">
+                © 2018 Attainment . All Rights Reserved | Design by Oceangreen Technology(Rahul shahare)
+                </div>
+            </div>
+        </div>
     </section>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
