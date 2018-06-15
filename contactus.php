@@ -97,8 +97,13 @@
             </div>
         </div>
     </section>
-
-    <section class="footer">
+    <section class="findUs">
+        <div class="container">
+            <h1>Find Us</h1>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3747.3578541552215!2d78.54080279793885!3d20.077322372076534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1529092683241" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    </section>
+        <section class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 border_right_white">
@@ -141,6 +146,7 @@
             </div>
         </div>
     </section>
+
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-2.1.1.js"></script>

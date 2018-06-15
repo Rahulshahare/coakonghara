@@ -63,7 +63,7 @@
     <!--Navigation-->
     <div class="container-fluid slider">
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-12">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -77,32 +77,32 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="./images/val.jpg" alt="...">
+      <img src="./images/BingWallpaper.jpg" alt="...">
       <div class="carousel-caption">
         <h4>Oceangreen Technology</h4>
         <p>We Work For Excellence</p>
       </div>
     </div>
     <div class="item">
-      <img src="./images/val.jpg" alt="...">
+      <img src="./images/BingWallpaper.jpg" alt="...">
       <div class="carousel-caption">
         ...
       </div>
     </div>
     <div class="item">
-      <img src="./images/val.jpg" alt="...">
+      <img src="./images/BingWallpaper.jpg" alt="...">
       <div class="carousel-caption">
         ...
       </div>
     </div>
     <div class="item">
-      <img src="./images/val.jpg" alt="...">
+      <img src="./images/BingWallpaper.jpg" alt="...">
       <div class="carousel-caption">
         ...
       </div>
     </div>
     <div class="item">
-      <img src="./images/val.jpg" alt="...">
+      <img src="./images/BingWallpaper.jpg" alt="...">
       <div class="carousel-caption">
         ...
       </div>
