@@ -74,3 +74,18 @@ body { padding-top: 51px; }
     box-shadow: 1px 1px 2px #0003;
     padding: 20px;
 }
+
+.footer {
+    background: #000;
+    padding: 20px 0px;
+}
+.footer h2{
+    color: #c10000;
+}
+.footer p{
+    color:#ffffff85;
+    font-size: 15px;
+}
+.border_right_white{
+    border-right: 1px solid #ffffff47;
+}

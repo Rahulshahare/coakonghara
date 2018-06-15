@@ -246,6 +246,40 @@
             </div>
         </div>
     </section>
+
+    <section class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 border_right_white">
+                    <h2>This is Test</h2>
+                    <p>New 101 street, at Pkd</p>
+                    <p>Colony wizkumar test</p>
+                    <p>Maharatsra, India</p>
+                    <p>Mobile: HEYIAMTEST</p>
+                    <p>Email: hey@iam.test</p>
+                </div>
+                <div class="col-md-4 border_right_white">
+                    <h2>This is Test</h2>
+                    <p>New 101 street, at Pkd</p>
+                    <p>Colony wizkumar test</p>
+                    <p>Maharatsra, India</p>
+                    <p>Mobile: HEYIAMTEST</p>
+                    <p>Email: hey@iam.test</p>
+                </div>
+                <div class="col-md-4 ">
+                    <h2>This is Test</h2>
+                    <p>New 101 street, at Pkd</p>
+                    <p>Colony wizkumar test</p>
+                    <p>Maharatsra, India</p>
+                    <p>Mobile: HEYIAMTEST</p>
+                    <p>Email: hey@iam.test</p>
+                </div>
+                
+                               
+            </div>
+        </div>
+
+    </section>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-2.1.1.js"></script>
