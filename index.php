@@ -174,7 +174,7 @@
         <div class="container">
             <h1 class="text-center">Courses</h1>
             <h3 class="text-center">New nfbaba dgbakdjbgad j</h3>
-            <hr style="border-top: 2px solid #fa7474;width: 10%;"/>
+            <hr class="hr_rule"/>
             <br/><br/><br/>
             <div class="row">
                 <div class="col-md-4 categories-left">
@@ -216,6 +216,21 @@
             </div>
         </div>
 
+    </section>
+
+    <section class="pplSay">
+        <div class="container">
+            <h1 class="text-center">See what they say</h1>
+            <h3 class="text-center">Listen from our happy customers</h3>
+            <hr class="hr_rule"/>
+            <div class="row">
+                    <div class="col-md-6">
+                        <h1>fakn</h1>
+                    </div>
+            </div>
+
+            </div>
+        </div>
     </section>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

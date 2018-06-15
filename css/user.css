@@ -63,3 +63,10 @@ body { padding-top: 51px; }
 .border_right {
     border-right: 1px solid #0000000a;
 }
+.hr_rule{
+    border-top: 2px solid #fa7474;
+    width: 10%;
+}
+.pplSay {
+    padding: 100px 0px;
+}
