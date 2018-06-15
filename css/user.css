@@ -1,0 +1,35 @@
+.slider {
+    background: #27324e;
+}
+.navbar-default {
+    background-color: #fff;
+}
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.nextStep {
+    background: #4b515e;
+    color: #fff;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.stats {
+    background: url(../images/Sky.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-attachment: fixed;
+}
+.post {
+    background: #ffffff40;
+    padding: 15px;
+    margin-right: -2px;
+    border-radius: 10px;
+    color: #313131;
+    font-size: 15px;
+}
