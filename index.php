@@ -14,7 +14,7 @@
   </head>
   <body>
     <!--Navigation-->
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -164,13 +164,59 @@
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
                             </p>
-                        </div>
-                        
-                                              
+                        </div>                         
                 </div>
             </div>
         </div>
     </div>
+
+    <section class="category">
+        <div class="container">
+            <h1 class="text-center">Courses</h1>
+            <h3 class="text-center">New nfbaba dgbakdjbgad j</h3>
+            <hr style="border-top: 2px solid #fa7474;width: 10%;"/>
+            <br/><br/><br/>
+            <div class="row">
+                <div class="col-md-4 categories-left">
+                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                </div>
+                <div class="col-md-8 categories-right">
+                    <div class="row">
+                        <div class="col-md-6 border_right">
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                            </div>
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                            </div>
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+                        </div>
+                        <div class="col-md-6 border_right">
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                            </div>
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                            </div>
+                            <div class="categories_sub1">
+								<h3 class="mt-3">TEACHING</h3>
+								<p class="mt-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+							</div>
+                        </div>
+                                             
+                    </div>
+                </div>      
+            </div>
+        </div>
+
+    </section>
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-2.1.1.js"></script>

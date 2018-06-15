@@ -1,3 +1,4 @@
+body { padding-top: 51px; }
 .slider {
     background: #27324e;
 }
@@ -32,4 +33,33 @@
     border-radius: 10px;
     color: #313131;
     font-size: 15px;
+}
+
+.categories-left {
+    background: url(../images/BingWallpaper.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+}
+
+.category {
+    background: #d5d5d538;
+    padding-top: 50px;
+    padding-bottom:100px;
+}
+
+.categories_sub1 {
+    border-bottom: 1px solid #0000000a;
+    text-align: right;
+    padding:30px 10px;
+}
+.categories-right {
+    background: #fff;
+    box-shadow: 1px 1px 1px #00000038;
+}
+
+.border_right {
+    border-right: 1px solid #0000000a;
 }
