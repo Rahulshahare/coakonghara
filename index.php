@@ -220,12 +220,26 @@
 
     <section class="pplSay">
         <div class="container">
-            <h1 class="text-center">See what they say</h1>
-            <h3 class="text-center">Listen from our happy customers</h3>
-            <hr class="hr_rule"/>
             <div class="row">
-                    <div class="col-md-6">
-                        <h1>fakn</h1>
+                    <div class="col-md-6 contact_us">
+                        <h1 class="text-center">Contact us</h1>
+                        <hr class="hr_rule"/>
+                            <form>
+                                <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Enter Your Name">
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Email</label>
+                                    <input type="email" class="form-control" id="email" placeholder="Enter Your Email">
+                                </div>
+                                <div class="form-group">
+                                    <label for="masg">Massage</label>
+                                    <textarea class="form-control"></textarea>
+                                </div>
+                               
+                                <button type="submit" class="btn btn-default" value="#">Submit</button>
+                            </form>
                     </div>
             </div>
 
